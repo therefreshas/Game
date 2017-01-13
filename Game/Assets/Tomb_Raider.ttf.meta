@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6fed8cb4c3aca7e41baa28abe79c559f
+timeCreated: 1483194435
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tomb_Raider
+  fontNames:
+  - Tomb_Raider
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
